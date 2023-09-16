@@ -3,10 +3,11 @@
 
 using Tutorial_LINQ;
 
-(new IntroductionToLINQ()).Run();
+//(new IntroductionToLINQ()).Run();
 
-(new Sorting()).Run();
+//(new Sorting()).Run();
 
+(new SetOperations()).Run();
 
 
 
