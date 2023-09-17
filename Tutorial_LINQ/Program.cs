@@ -7,7 +7,9 @@ using Tutorial_LINQ;
 
 //(new Sorting()).Run();
 
-(new SetOperations()).Run();
+//(new SetOperations()).Run();
+
+(new Filtering()).Run();
 
 
 
