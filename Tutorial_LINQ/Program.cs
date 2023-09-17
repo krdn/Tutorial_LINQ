@@ -11,7 +11,9 @@ using Tutorial_LINQ;
 
 //(new Filtering()).Run();
 
-(new QuantifierOperations()).Run();
+//(new QuantifierOperations()).Run();
+
+(new Projection()).Run();
 
 
 
