@@ -9,7 +9,9 @@ using Tutorial_LINQ;
 
 //(new SetOperations()).Run();
 
-(new Filtering()).Run();
+//(new Filtering()).Run();
+
+(new QuantifierOperations()).Run();
 
 
 
